@@ -85,14 +85,15 @@ DATASET OVERVIEW
   Test Set: 2,164 rows (382 fraud cases)
   Feature Engineered: 27
   
-MODEL PERFORMANCE  (Test Set)
+MODEL PERFORMANCE  (Test Set)            
+Logistic Regression
+Precision = 79%; Recall = 94%; F1-score = 0.86; ROC-AUC = 0.97
 
-Model                     Precision  Recall   F1-score  ROC-AUC
-----------------------------------------------------------------
+Random Forest
+Precision = 100% ; Recall = 92%; F1-score = 0.96; ROC-AUC =  0.99
 
-Logistic Regression       79%         94%       0.86      0.97
-Random Forest             100%        92%       0.96      0.99
-XGBoost                   93%         92%       0.93      0.97
+XGBoost 
+Precision = 93% ; Recall = 92%;  F1-score =  0.93;    ROC-AUC =  0.97
 
 
 BEST MODEL: Random Forest
