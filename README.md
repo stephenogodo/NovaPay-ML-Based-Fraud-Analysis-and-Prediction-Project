@@ -1,5 +1,18 @@
 # NovaPay ML-Project-on-Fraud-Detection-Analysis-and-Modelling
 
+Key Pain Points
+Identity theft, account takeover, transaction laundering, and unauthorized payments
+
+Highly imbalanced dataset (fraud represents less than 1% of all transactions)
+
+Insufficient adaptive detection tools in the current workflow
+
+False positives that frustrate legitimate users
+
+Regulatory pressure for transparency and explainable fraud decisions
+
+These issues collectively justify the need for a machine learning–driven solution.
+
 SUMMARY AND KEY FINDINGS
 Overall Summary:
 
