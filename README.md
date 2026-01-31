@@ -75,6 +75,8 @@ drivers of fraudulent activities. These insights can be invaluable for developin
 
 
 =======FIND BELOW A CONCISE SUMMARY OF THE DELIVERABLES OF THE NOVAPAY FRAUD DETECTION PROJECT===========
+                                   
+                                   
                                    FINAL SUMMARY REPORT
 
 
